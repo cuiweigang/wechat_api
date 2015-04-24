@@ -1,0 +1,8 @@
+{
+  "wechat": {
+    "appId": "wx8fdfae0b48fa0d12",
+    "secret": "bbfc7197b146c997e6eec16adc286f6e",
+    "token": "1234567890",
+    "EncodingAESKey": "FSlSxMUSFbtNoVthehyxDRVmhxcaGlUKiwSN4FaSVc3"
+  }
+}
