@@ -1,0 +1,5 @@
+node_modules/xml2json/node_modules/node-expat/build/Release/libexpat.lib
+node_modules/xml2json/node_modules/node-expat/build/Release/node_expat.lib
+node_modules/xml2json/node_modules/node-expat/node_modules/iconv/build/Release/iconv.lib
+node_modules/xml2json/node_modules/node-expat/node_modules/iconv/build/Release/libiconv.lib
+node_modules/xml2json/node_modules/node-expat/node_modules/iconv/deps/libiconv/COPYING.LIB

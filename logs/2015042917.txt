@@ -1,0 +1,14 @@
+[2015-04-29 17:56:52.588] [INFO] wechat - echostr:undefined 
+ signatur:undefined 
+ timestamp:undefined 
+ nonce:undefined 
+ echostr:undefined 
+ sha1:01b307acba4f54f55aafc33bb06bbbf6ca803e9a 
+ token:1234567890
+[2015-04-29 17:58:35.848] [INFO] wechat - echostr:undefined 
+ signatur:undefined 
+ timestamp:undefined 
+ nonce:undefined 
+ echostr:undefined 
+ sha1:01b307acba4f54f55aafc33bb06bbbf6ca803e9a 
+ token:1234567890

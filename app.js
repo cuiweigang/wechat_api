@@ -7,6 +7,7 @@ var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
+var config = require("config");
 
 var app = express();
 
@@ -61,8 +62,8 @@ app.use(function (err, req, res, next) {
 });
 
 
-app.listen(3000, function () {
-    console.log('http://localhost:3000');
+app.listen(config.port, function () {
+    console.log('http://localhost:', config.port);
 });
 
 module.exports = app;

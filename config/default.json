@@ -1,7 +1,8 @@
 {
+  "port":3100,
   "wechat": {
-    "appId": "wx8fdfae0b48fa0d12",
-    "secret": "bbfc7197b146c997e6eec16adc286f6e",
+    "appId": "wxe978dc1e4deac224",
+    "secret": "4f9ec2307184f17180b36bb6f358150b",
     "token": "1234567890",
     "EncodingAESKey": "FSlSxMUSFbtNoVthehyxDRVmhxcaGlUKiwSN4FaSVc3"
   }
